@@ -1,0 +1,293 @@
+# Vrátnícheck – kompletní informace pro AI nástroje
+
+> Vrátnícheck je značka české společnosti IMA s.r.o. (člen skupiny WITTE Automotive GmbH). Nabízí řešení pro bezpečnost škol: přístupové a docházkové systémy, chytré skříňky a úschovu mobilů. Web: https://www.vratnicheck.cz
+
+
+## Bezpečnější škola. Chytře propojená.
+URL: https://www.vratnicheck.cz/
+
+Vrátnícheck je cloudový přístupový systém pro školy, který propojuje řízení přístupu, mobilní identifikaci, chytré skříňky i bezpečnou úschovu mobilů do jednoho přehledného řešení. Pomáhá školám lépe kontrolovat pohyb osob, zjednodušit každodenní provoz a přitom se plně integruje do existujících školních systémů a přizpůsobí specifikům školy.
+
+### Z čeho se řešení skládá
+Vrátnícheck je modulární systém – škola si vybere produkty přesně podle svých potřeb a kdykoliv je rozšíří.
+- imaPORTER – Přístupový systém: Moderní přístupový systém pro školy, který umožňuje bezpečný vstup pomocí mobilního telefonu, čipové karty nebo ISIC. Integrace se školními systémy je samozřejmostí.
+- imaLOCKER – Chytré skříňky pro školy: Moderní způsob šatních a úložných skříněk pro žáky i učitele. Možnost propojení se stávajícím přístupovým systémem – jeden čip.
+- imaLOCKER Mobile – Skříňky na mobily: Praktická a bezpečná úschova pro 36 mobilních telefonů. Vytvořte ve třídách „phone-free zónu", kde se studenti plně soustředí na učivo.
+- imaPOUCH – Pouche na mobily: Flexibilní řešení pro úschovu mobilních telefonů ve škole. Jedná se o uzamykatelné pouzdro na telefon, které žákům pomáhá odložit mobil a soustředit se na výuku.
+
+### Proč Vrátnícheck? Přístup, skříňky i pronajímané prostory pod kontrolou
+- Bezpečnost dětí na prvním místě – kontrola každého vstupu do školy. Víte kdo, kdy a kam vstoupil.
+- Integrace se školskými systémy – propojení se Strava.cz, Bakaláři, Škola Online i Edupage.
+- Přehledný reporting – statistiky, reporty a analýzy pro vedení školy a zřizovatele.
+- Přizpůsobitelné řešení pro každou školu – škola se nemusí přizpůsobit systému, systém se přizpůsobí jedinečnosti školy.
+
+### Moderní škola má přehled.
+Vrátnícheck si získal důvěru více než 100 škol po celé ČR.
+- 100+ Škol v ČR
+- 50000+ Tisíc žáků denně
+- 30+ Let zkušeností
+
+### Jak to probíhá
+- 1. Konzultace a analýza – Zdarma vyhodnotíme vaše potřeby, vstupy a rizika budovy.
+- 2. Návrh řešení – Připravíme nabídku šitou na míru vaší škole.
+- 3. Instalace a zaškolení – Profesionální instalace a zaškolení všech uživatelů.
+- 4. Podpora a servis – Technická podpora a pravidelný servis.
+
+## imaPORTER – přístupový a docházkový systém pro školy
+URL: https://www.vratnicheck.cz/produkty/importer
+
+imaPORTER je přístupový a docházkový systém pro školy. Žák otevře dveře mobilem, čipem, kartou ISIC nebo PINem, systém v reálném čase ověří oprávnění, otevře dveře a uloží záznam o průchodu. Rodič může dostat notifikaci o příchodu dítěte.
+
+### Klíčové funkce
+- Otevírání dveří mobilem, čipem nebo ISIC
+- Integrace s Bakaláři, Škola Online, Edupage
+- Automatická evidence docházky
+- Hlášení rodičům o příchodu dítěte
+- Správa přístupových práv v reálném čase
+- PINové čtečky pro pronajímané prostory a dvoufaktorové ověření
+
+### Přínosy pro školu
+- Bezpečná škola - kontrola každého vstupu
+- Úspora času - automatizace procesů
+- Přehled v mobilu pro ředitele i rodiče
+- Jednoduchá správa bez IT specialisty
+
+### Integrace se školními systémy
+Cloud se přes API napojuje na nejrozšířenější školní informační systémy – Bakaláři, Škola OnLine, Edookit a Edupage. Průchody se mohou automaticky přenášet do evidence docházky. Veškerá komunikace je šifrovaná.
+
+### Technické parametry
+- Kapacita až 2100 uživatelů na čtečku
+- Frekvence 13,56 MHz a 2,4 GHz, technologie NFC, Bluetooth, LAN, RS485
+- Krytí IP 65, provoz -25 °C až +60 °C
+- Podpora karet ISIC, Lítačka (MHD) i InKarta ČD
+
+## imaLOCKER – chytré skříňky pro školy
+URL: https://www.vratnicheck.cz/produkty/imalocker
+
+imaLOCKER jsou chytré šatní a úložné skříňky pro žáky i učitele s elektronickým zámkem. Otevírají se mobilem, čipem nebo PINem – konec ztracených klíčů. Lze je propojit se stávajícím přístupovým systémem na jeden čip.
+
+### Klíčové funkce
+- Přístup přes aplikaci imaPORTER, čip nebo PIN
+- Cloudová správa a statistiky využití
+- Skupinové skříňky pro třídy a kroužky
+- Integrace se stávajícím informačním systémem
+- Až 120 chytrých zámků na jednu sestavu
+- Volitelně USB nabíjení, LED indikace, EINK display
+
+### Přínosy pro školu
+- Žáci bez klíčů – vše v mobilu nebo na kartě
+- Přehled pro školu 24/7 v jednom portálu
+- Reference: TRIANGL Beroun, VIA Beroun
+- Řešení na míru – různé velikosti a počet
+
+### Reference
+- TRIANGL multifunkční budova, Beroun – 240 skříněk s LED indikací stavu
+- VIA Beroun, školní kampus – 360 skříněk se systémem imaPORTER Pro
+
+## imaLOCKER Mobile – skříňka na mobily do školy na 36 telefonů
+URL: https://www.vratnicheck.cz/produkty/imalocker-mobile
+
+imaLOCKER Mobile je uzamykatelná ocelová skříň na 36 mobilních telefonů do třídy. Vytvoříte z ní bezmobilovou zónu pro soustředěnou výuku, testy i zkoušky – praktické řešení úschovy telefonů v souladu s metodikou MŠMT k používání mobilů ve škole.
+
+### Klíčové funkce
+- Kapacita 36 mobilních telefonů
+- Ocelová konstrukce s transparentními dveřmi
+- Očíslované přihrádky pro každého žáka
+- Jednoduché ovládání - odlož a zamkni
+- Ideální pro hodiny, testy i maturity
+- Možnost napojení na přístupový systém
+
+### Přínosy pro školu
+- Lepší soustředění studentů
+- Žádné podvádění při testech
+- Bezpečné uložení telefonů
+- Okamžitá vizuální kontrola obsahu
+
+### Technické parametry
+- Kapacita 36 mobilních telefonů, očíslované přihrádky
+- Ocelová konstrukce s transparentními dveřmi pro vizuální kontrolu
+- Rozměry 27,5 × 43,5 × 20,5 cm (Š × V × H)
+- Volitelně chytrý zámek s otevíráním mobilem, čipem nebo PINem a napojením na přístupový systém
+
+## imaPOUCH – uzamykatelné pouzdro na mobil pro školy
+URL: https://www.vratnicheck.cz/produkty/imapouch
+
+imaPOUCH je levné uzamykatelné pouzdro na telefon pro školy – dostupná česká alternativa k řešení typu Yondr. Žák si do něj telefon na dobu výuky sám uzamkne, což pomáhá naplnit pravidla školního řádu k používání mobilů bez velkých nákladů.
+
+### Klíčové funkce
+- Jednoduché a levné řešení
+- Různé velikosti a barvy
+- Možnost personalizace
+- Skladné a přenosné
+- Vhodné pro třídy i skupiny
+
+### Přínosy pro školu
+- Ekonomické řešení pro každou školu
+- Flexibilní použití
+- Podpora digitálního detoxu
+- Jednoduchá implementace
+
+## Každá škola má jiné potřeby. Vrátnícheck se jim přizpůsobí.
+URL: https://www.vratnicheck.cz/pro-skoly
+
+Mateřská, základní i střední škola řeší bezpečnost a každodenní provoz trochu jinak, a zároveň je každá naprosto výjimečná. Produkty v řešení Vrátnícheck jsou vytvořené tak, aby se jednoduše přizpůsobily všem specifikům typu i provozu školy. Vrátnícheck proto funguje jako modulární systém. Škola si může vybrat konkrétní produkty a řešení přesně podle svých potřeb a kdykoliv ho i rozšířit.
+
+### Jak Vrátnícheck funguje v praxi ve škole?
+Vrátnícheck propojuje přístupové čtečky, chytré skříňky a školní systém do jednoho funkčního celku. Žáci, zaměstnanci nebo další oprávněné osoby se identifikují například kartou, ISICem, mobilním telefonem nebo PINem a systém automaticky vyhodnotí, zda mají do daného prostoru přístup.
+Součástí řešení je také rozhraní, přes které systém IMA předává informace do školní agendy. Škola tak může pracovat s údaji z přístupových čteček i chytrých skříněk bez zbytečné ruční administrativy.
+
+### Mateřské školy
+Co škola typicky řeší: bezpečný vstup do budovy, jednoduchý přístup pro rodiče a zaměstnance, přehlednější provoz během ranních a odpoledních špiček, bezpečné uložení věcí pro personál nebo třídy.
+- Doporučené řešení: imaPORTER přístupové řešení
+- Doporučené řešení: úložné boxy imaLOCKER
+
+### Základní školy
+Co škola typicky řeší: kontrola vstupu žáků, zaměstnanců a návštěv, evidence docházky, bezpečné uložení osobních věcí, možnost regulovat ukládání mobilních telefonů, správa přístupů do tělocvičen a dalších pronajímaných prostor.
+- Doporučené řešení: imaPORTER přístupové řešení (včetně PINových čteček pro pronájem tělocvičen a dalších prostor)
+- Doporučené řešení: chytré skříňky imaLOCKER
+- Doporučené řešení: skříňky imaLOCKER Mobile
+
+### Střední školy
+Střední školy potřebují kontrolu nad přístupem, docházkou, bezpečné uložení osobních věcí a regulované používání mobilních telefonů ve vybraných hodinách.
+Co škola typicky řeší: kontrola přístupu a evidence docházky, bezpečné uložení osobních věcí, regulované používání mobilních telefonů ve vybraných hodinách, správa přístupů do pronajímaných prostor.
+- Doporučené řešení: imaPORTER přístupové řešení (včetně PINových čteček pro pronájem tělocvičen a dalších prostor)
+- Doporučené řešení: chytré skříňky imaLOCKER s integrovanou nabíječkou na mobilní telefony
+- Doporučené řešení: imaLOCKER Mobile
+- Doporučené řešení: imaPOUCH na mobilní telefony
+
+## Reference – školy, které používají Vrátnícheck
+URL: https://www.vratnicheck.cz/reference
+
+Moderní škola má přehled. Vrátnícheck si získal důvěru více než 100 škol po celé ČR.
+
+### TRIANGL multifunkční budova – Beroun
+- Šatní a úložné skříňky pro žáky
+- 240 dřevěných skříněk
+- LED indikace stavu skříňky
+- Systém imaPORTER Pro s integrovanou správou skříněk
+
+### VIA Beroun – školní kampus – Beroun
+- Šatní a úložné skříňky pro žáky
+- 360 plechových skříněk
+- LED indikace stavu skříňky
+- Systém imaPORTER Pro s integrovanou správou skříněk
+
+### Proč zvolit Vrátnícheck místo samostatného přístupového systému?
+Vrátnícheck není jen čtečka u dveří. Je to komplexní řešení pro školy, které propojuje řízení vstupu, evidenci osob, chytré skříňky, časově omezené přístupy a napojení na školní systém.
+Díky tomu škola získá jeden přehledný systém místo několika oddělených řešení. Vše je navržené na míru provozu školy, s podporou českého výrobce a zkušenostmi z více než stovky škol v České republice.
+
+### Co říkají ředitelé škol
+- „Vrátnícheck se snadno naučili používat jak všichni učitelé, tak i děti a rodiče." – Petra Velká, ředitelka MŠ
+- „Vrátnícheck u nás ve škole milujeme zcela všichni." – Jan Novák, ředitel ZŠ
+
+## Nejčastější dotazy k systému Vrátnícheck
+URL: https://www.vratnicheck.cz/nejcastejsi-dotazy
+
+Odpovědi na otázky, které školy nejčastěji řeší před zavedením přístupového systému, chytrých skříněk a úschovy mobilů: instalace, provoz, bezpečnost, pronájmy prostor i přínos pro rodiče.
+
+## Mobily ve škole, bezpečnost a novinky Vrátnícheck
+URL: https://www.vratnicheck.cz/media
+
+Tiskové zprávy, rozhovory a články o bezpečnosti škol, přístupových systémech a úschově mobilů. Najdete tu i praktické informace k tomu, co platí pro mobily ve škole od 1. 1. 2026 a jak nastavit školní řád.
+
+## O ima.cz – IMA a značka Vrátnícheck
+URL: https://www.vratnicheck.cz/o-nas
+
+Vrátnícheck je značka české společnosti IMA s.r.o., která vyvíjí identifikační a přístupové systémy od roku 1992 a od roku 2021 je členem skupiny WITTE Automotive. Vrátnícheck je specializované řešení pro školy.
+
+### Náš příběh
+Od roku 1992 je IMA synonymem pro výzkum a vývoj softwaru i hardwaru v oblasti identifikačních systémů. Naše technologie využívají přední české i mezinárodní společnosti jako Škoda Auto, ČEZ, Foxconn nebo ČVUT, a řešení jsou ve firmách, úřadech i školách po celé ČR.
+V roce 2021 se IMA stala členem německé skupiny WITTE Automotive GmbH. V roce 2024 jsme spustili značku Vrátnícheck – řešení pro školy spojující dlouholeté zkušenosti s potřebami moderního školství.
+
+### Milníky
+- 1992 – Založení IMA, vývoj identifikačních systémů
+- 2000 – První přístupové systémy ve školství
+- 2010 – Vývoj aplikací pro mobilní přístup
+- 2021 – IMA členem skupiny WITTE Automotive
+- 2024 – Vznik značky Vrátnícheck pro školy
+
+## Kontakt a nezávazná poptávka
+URL: https://www.vratnicheck.cz/kontakt
+
+Ozvěte se nám a my vám pomůžeme najít nejlepší řešení pro vaši školu. Zdarma vyhodnotíme vstupy a rizika budovy a připravíme nezávaznou cenovou nabídku na míru.
+
+### IMA s.r.o.
+Člen skupiny WITTE Automotive GmbH
+- Adresa: Karla Engliše 6, Praha 5, 150 00
+- IČO: 45277397
+- Kontaktní osoba: Josef Purnoch, vedoucí projektový manažer
+- Telefon: (+420) 771 129 469
+- E-mail: jsem@vratnicheck.cz
+- Otevírací doba: Po–Pá 8:00–17:00
+
+## Často kladené otázky
+
+### Co je potřeba k instalaci systému Vrátnícheck?
+K instalaci je potřeba především naše zařízení a datová kabeláž. Pokud škola v některých místech nemá připravené datové rozvody, umíme navrhnout i variantu s LTE modulem – například tam, kde není možné nebo praktické vést nový datový kabel.
+
+Konkrétní řešení vždy připravujeme podle dispozic budovy, stávající infrastruktury a provozních potřeb školy.
+
+### Jak Vrátnícheck zvyšuje bezpečnost žáků a zaměstnanců?
+Vrátnícheck pomáhá škole získat lepší přehled o tom, kdo, kdy a kam vstupuje. Díky tomu lze jednodušeji kontrolovat vstup do budovy, omezit pohyb neoprávněných osob a nastavit přístupová práva podle konkrétních rolí, časů nebo prostor.
+
+Škola může například sledovat příchody žáků, informovat rodiče o příchodu dítěte do školy, zabezpečit vybrané místnosti nebo nastavit odlišná pravidla pro žáky, zaměstnance, návštěvy, poštu či externí dodavatele.
+
+### Jak systém pomáhá kontrolovat vstup do školy a evidovat návštěvy?
+Díky produktům v řešení Vrátnícheck má škola přehled o pohybu osob v budově. Systém dokáže zaznamenat, kdo a kdy použil přístupové místo, a pomáhá tak nahradit neefektivní ruční kontrolu u vstupu.
+
+Návštěvy, externí pracovníci nebo kurýři mohou mít přístup nastavený pouze na konkrétní čas, prostor nebo účel. Přístup tak nemusí být plošný, ale přesně řízený podle pravidel školy.
+
+### Lze Vrátnícheck napojit na stávající dveře, bránu nebo kamerový systém?
+Ano, Vrátnícheck lze ve většině případů napojit na stávající dveře, vstupy, brány nebo další technologie školy. Řešení navrhujeme tak, aby co nejlépe navazovalo na současný provoz budovy a nevyžadovalo zbytečné zásahy.
+
+Při návrhu vždy posoudíme, jaké systémy už škola používá a jak je možné je propojit s přístupovým řešením, školní agendou nebo dalšími prvky zabezpečení.
+
+### Jak probíhá obsluha a kdo systém spravuje?
+Správu systému obvykle zajišťuje IT správce, případně pověřená osoba ve škole, například office manažer nebo pracovník odpovědný za evidenci žáků. Běžný provoz nevyžaduje složitou ani častou obsluhu.
+
+Po nastavení pravidel systém funguje automaticky. Škola může podle potřeby upravovat přístupy, pracovat s evidencí osob nebo měnit oprávnění pro konkrétní vstupy a prostory.
+
+### Jak dlouho trvá zavedení systému do provozu?
+Doba zavedení závisí na rozsahu projektu, počtu vstupů, typu zařízení a připravenosti infrastruktury. U škol se často počítá s instalací během letních prázdnin, kdy je provoz budovy klidnější a práce lze provést s minimálním omezením výuky.
+
+Přesný harmonogram vždy připravíme po zmapování potřeb školy a technických možností budovy.
+
+### Umí Vrátnícheck řešit pronájem prostor a časově omezené vstupy?
+Ano. Pro pronajímané prostory, sportoviště, učebny nebo další části školy lze nastavit časově omezený přístup. Typicky se využívají PINové čtečky nebo jiný identifikátor, který umožní vstup pouze v předem definovaném čase.
+
+To se hodí například pro odpolední kroužky, externí lektory, sportovní kluby, servisní pracovníky nebo krátkodobé návštěvy. Přístupy lze nastavit od–do, bez nutnosti předávat fyzické klíče.
+
+### Jak lze zabezpečit serverovny, technické místnosti nebo prostory s omezeným přístupem?
+Pro citlivé nebo technické prostory lze nastavit vyšší úroveň zabezpečení. Například serverovny, sklady techniky nebo další místnosti s omezeným přístupem mohou být chráněny dvoufaktorovým ověřením – například kombinací čtečky a PINu.
+
+Díky tomu se do vybraných prostor dostanou pouze oprávněné osoby a škola má zároveň přehled o tom, kdo do těchto místností vstoupil.
+
+### Kolik karet musí studenti nosit, když škola používá čtečky i skříňky imaLOCKER?
+Studenti nemusí nosit více karet. Stejný identifikátor lze použít jak pro vstup přes přístupové čtečky, tak pro chytré skříňky imaLOCKER.
+
+Škola tak může spravovat přístupy i skříňky v jednom systému a vše napojit na svůj školní systém. Pro žáky je používání jednoduché a pro školu přehledné.
+
+### Je možné systém upravit podle režimu konkrétní školy?
+Ano. Každá škola má jiný provoz, jinou budovu, jiné personální zajištění a jiné potřeby v oblasti bezpečnosti. Proto Vrátnícheck nenabízíme jako univerzální krabicové řešení, ale jako systém, který společně se školou nastavíme na míru.
+
+IMA ještě nikdy nedodávala úplně stejné řešení pro dvě školy. Vždy zohledňujeme konkrétní režim, typ budovy, způsob pohybu žáků a zaměstnanců, požadavky na evidenci i potřeby správy přístupů.
+
+### Jak se řeší vstupní zvonkové tablo?
+Do vstupního tabla lze doplnit čtečku imaPORTER. Díky tomu může škola využít přístupový systém i u hlavního vstupu a propojit ho s dalšími prvky Vrátníchecku.
+
+Řešení navrhneme podle konkrétního typu tabla, technických možností vstupu a požadavků školy na identifikaci osob.
+
+### Jaký přínos má Vrátnícheck pro rodiče?
+Vrátnícheck může rodičům přinést větší klid a lepší přehled o tom, zda je dítě ve škole. Na vyžádání mohou rodiče dostávat e-mailové notifikace s informací o přítomnosti dítěte ve škole v reálném čase.
+
+Škola tak může rodičům nabídnout moderní způsob informování bez další administrativní zátěže pro personál.
+
+### Co je chytrá šatna složená ze skříněk imaLOCKER?
+Chytrá šatna využívá elektronické skříňky imaLOCKER, které mohou sloužit například pro bezpečné uložení osobních věcí, mobilních telefonů nebo další elektroniky. Skříňky mohou být vybavené i funkcí dobíjení zařízení.
+
+Celý systém se spravuje centrálně a lze ho napojit na stejné prostředí jako přístupové čtečky. Žáci tak mohou využívat jeden identifikátor pro vstup do školy i pro otevření své skříňky.
+
+### Musíme používat vaše RFID karty?
+Ne. Vrátnícheck je navržený tak, aby škola nemusela zbytečně přidávat další karty nebo čipy do každodenního provozu. Systém umožňuje identifikaci pomocí různých typů karet a identifikátorů, včetně ISIC karet, MHD karet, čipů nebo mobilních telefonů.
+
+Díky tomu není nutné přetěžovat studenty ani zaměstnance dalším médiem. Ve většině případů lze využít identifikátor, který už lidé běžně používají.

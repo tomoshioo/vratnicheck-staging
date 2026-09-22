@@ -1,0 +1,34 @@
+# Vrátnícheck
+
+> Vrátnícheck je české řešení od výrobce IMA s.r.o. (člen skupiny WITTE Automotive GmbH) pro zabezpečení a přístup do škol: přístupové a docházkové systémy, chytré skříňky a úschovu mobilních telefonů. Používá ho více než 100 škol v ČR.
+
+## Produkty
+- [imaPORTER – Přístupový systém](https://www.vratnicheck.cz/produkty/importer): Moderní přístupový systém pro školy, který umožňuje bezpečný vstup pomocí mobilního telefonu, čipové karty nebo ISIC. Integrace se školními systémy je samozřejmostí.
+- [imaLOCKER – Chytré skříňky pro školy](https://www.vratnicheck.cz/produkty/imalocker): Moderní způsob šatních a úložných skříněk pro žáky i učitele. Možnost propojení se stávajícím přístupovým systémem – jeden čip.
+- [imaLOCKER Mobile – Skříňky na mobily](https://www.vratnicheck.cz/produkty/imalocker-mobile): Praktická a bezpečná úschova pro 36 mobilních telefonů. Vytvořte ve třídách „phone-free zónu", kde se studenti plně soustředí na učivo.
+- [imaPOUCH – Pouche na mobily](https://www.vratnicheck.cz/produkty/imapouch): Flexibilní řešení pro úschovu mobilních telefonů ve škole. Jedná se o uzamykatelné pouzdro na telefon, které žákům pomáhá odložit mobil a soustředit se na výuku.
+
+## Informace
+- [Pro školy – řešení pro MŠ, ZŠ a SŠ](https://www.vratnicheck.cz/pro-skoly): jak Vrátnícheck funguje v praxi a doporučené produkty podle typu školy.
+- [Reference](https://www.vratnicheck.cz/reference): referenční projekty, zkušenosti ředitelů, mapa měst se školami používajícími Vrátnícheck.
+- [Nejčastější dotazy](https://www.vratnicheck.cz/nejcastejsi-dotazy): instalace, provoz, pronájmy prostor, zabezpečení serveroven, přínos pro rodiče.
+- [O ima.cz – IMA a Vrátnícheck](https://www.vratnicheck.cz/o-nas): historie, skupina WITTE Automotive, mise pro školy.
+- [Kontakt a nezávazná poptávka](https://www.vratnicheck.cz/kontakt): Karla Engliše 6, Praha 5; tel. (+420) 771 129 469; jsem@vratnicheck.cz.
+- [Média a novinky](https://www.vratnicheck.cz/media): regulace mobilů ve škole (metodika MŠMT od 1. 1. 2026), bezpečnost škol, produktové novinky.
+
+## Novinky
+- [Nové PINové čtečky pro jednodušší a bezpečnější vstup do škol](https://www.vratnicheck.cz/media/pinove-ctecky)
+- [IMA a Vrátnícheck na konferenci ElectroJobs 2025](https://www.vratnicheck.cz/media/electrojobs-2025)
+- [Nová verze aplikace imaPORTER MobileAccess Key: NFC nově i na iPhonu](https://www.vratnicheck.cz/media/nfc-iphone)
+- [Postaven na zkušenostech, vyvinut pro školy](https://www.vratnicheck.cz/media/prvni-narozeniny)
+- [Aktualizovaná verze imaPORTER IDcloud spuštěna](https://www.vratnicheck.cz/media/idcloud-update)
+- [Bezpečnost na školách, jak jsme na tom u nás v Česku?](https://www.vratnicheck.cz/media/bezpecnost-rozhovor)
+- [Zabezpečovací systémy ve školách, chybí systematický přístup](https://www.vratnicheck.cz/media/systematicky-pristup)
+- [Vstup do školy jen s mobilní aplikací](https://www.vratnicheck.cz/media/vstup-mobilni-aplikace)
+- [Změna přístupu škol k bezpečnosti](https://www.vratnicheck.cz/media/zmena-pristupu)
+- [Nový člen rodiny IMA: Vrátnícheck](https://www.vratnicheck.cz/media/novy-clen-rodiny-imaporter)
+- [Školy posilují zabezpečení budov](https://www.vratnicheck.cz/media/skoly-posiluji-zabezpeceni)
+- [Amper 2024: Firma IMA představuje](https://www.vratnicheck.cz/media/amper-2024)
+
+## Kontakt
+IMA s.r.o., Karla Engliše 6, Praha 5, 150 00, IČO 45277397. Telefon (+420) 771 129 469, e-mail jsem@vratnicheck.cz.
